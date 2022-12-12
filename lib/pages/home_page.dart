@@ -77,7 +77,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       backgroundColor: Color.fromRGBO(135, 191, 255, 1),
       appBar: AppBar(
-        title: Text('TO DO'),
+        title: Text('TODO App'),
         elevation: 5,
       ),
       floatingActionButton: FloatingActionButton(
